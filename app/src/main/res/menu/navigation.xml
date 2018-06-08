@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu1"
+        android:icon="@drawable/carro_frente_24dp"
+        android:title="@string/titulo_carro"/>
+
+    <item
+        android:id="@+id/menu2"
+        android:icon="@drawable/telefone_sos_24dp"
+        android:title="@string/titulo_sos" />
+
+    <item
+        android:id="@+id/menu3"
+        android:icon="@drawable/calculo_combustivel_24dp"
+        android:title="@string/titulo_config" />
+
+</menu>

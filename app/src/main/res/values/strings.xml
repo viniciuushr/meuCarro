@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meu Carro</string>
+    <string name="titulo_carro">Carro</string>
+    <string name="titulo_sos">Sos</string>
+    <string name="titulo_config">Combustível</string>
+    <string name="txt_mac">Ex: "20:15:04:28:77:93"</string>
+    <string name="btn_conectar">Conectar ao Dispositivo</string>
+</resources>
